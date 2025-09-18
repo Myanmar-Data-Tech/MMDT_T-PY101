@@ -9,19 +9,33 @@ I believe that hands-on learning is crucial for understanding and thus, the expl
 ## Instruction to Students
 
 ### Fork the repository: 
-  - Go to the original repository's page: https://github.com/myothida/PythonProgramming.git
+  - Go to the : [original repository's page](https://github.com/Myanmar-Data-Tech/MMDT_T-PY101/)
   - Click on the "Fork" button in the top-right corner. This will create a copy of the repository under your GitHub account
 
-
-
-
-### Upload your files to the your own repo. 
-Refer to this Github documents: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository. 
-  - Go to your forked repository's page on GitHub.
-  - Click on the "Add file" button, located above the list of files.
-  - In the dropdown menu, select "Upload files." This will open a file upload dialog.
-  - You can either click on the area to drag and drop your files or click on the "choose your files" button to browse and select files from your local machine.
-  - Once you've selected the files you want to upload, click on the "Commit changes" button to upload the files to your repository.
-
 ### Clone and work on local computer. 
-  *** Before creating the pull request or clone, it's recommended to sync your forked repository with the latest changes from the original repository. ***
+
+1. Clone your forked repository:
+
+  - On your GitHub page, navigate to the repository you just forked (it should be your-username/MMDT_T-PY101).
+  
+  - Click the green "<> Code" button.
+  
+  - Make sure you are on the Local tab and choose either HTTPS or SSH.
+  
+  - Click the clipboard icon to copy the URL.
+  
+  - Open your terminal or command prompt and run the `git clone` command with the URL you just copied:
+  
+```
+git clone https://github.com/your-username/MMDT_T-PY101.git
+```
+
+
+2. Navigate into the repository directory:
+
+  - Use the cd command to enter the cloned folder:
+```
+cd MMDT_T-PY101
+```
+3. You are now ready to make changes.
+  You can open the folder in your favorite code editor and start working on your assignments.
