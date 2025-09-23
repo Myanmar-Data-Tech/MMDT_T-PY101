@@ -1,0 +1,4 @@
+Hello, World!
+This is a test file.
+Appending a new line.
+This is CS112/BIOS 112 class.
