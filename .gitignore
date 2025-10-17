@@ -1,1 +1,2 @@
-*.venv/
+venv/
+codes_for_lecture/
