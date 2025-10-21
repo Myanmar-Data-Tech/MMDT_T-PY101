@@ -1,2 +1,4 @@
 venv/
 codes_for_lecture/
+data/scores*
+.DS_Store data
