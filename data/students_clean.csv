@@ -1,0 +1,280 @@
+,No,Marial Status,Education,Edu_Band,Displaced,Education_clean,Education_level
+0,1,Single,2nd year ( phys),,,2nd year ( phys),undergraduate
+1,2,Single,Grade_9,,,grade 9,high school
+2,3,Single,Grade_10,,,grade 10,high school
+3,4,Single,Grade_11,,,grade 11,high school
+4,5,Single,Grade_11(passed),,,grade 11(passed),high school
+5,6,Single,Grade_10(passed),,,grade 10(passed),high school
+6,7,Single,Grade_8,,,grade 8,middle school
+7,8,Single,Grade_11,,,grade 11,high school
+8,9,Single,Grade_7,,Yes,grade 7,middle school
+9,10,Single,Grade_8,,,grade 8,middle school
+10,11,Single,Grade_9,,,grade 9,high school
+11,12,Single,Grade_5,,,grade 5,primary
+12,13,Single,Grade_11,,,grade 11,high school
+13,14,Single,BSc ( Chemistry ),,,bsc ( chemistry ),undergraduate
+14,15,Single,Grade_7,,,grade 7,middle school
+15,16,Single,Grade_10,,,grade 10,high school
+16,17,Single,Grade_8,,,grade 8,middle school
+17,18,Single,Grade_9,,,grade 9,high school
+18,19,Single,Grade_9,,,grade 9,high school
+19,20,Single,Grade_5,,,grade 5,primary
+20,21,Single,Grade_9,,,grade 9,high school
+21,22,Single,Grade_11,,,grade 11,high school
+22,23,Single,Grade_8,,,grade 8,middle school
+23,24,Single,Grade-12,,,grade 12,high school
+24,25,Single,Grade _11,,,grade 11,high school
+25,26,Single,3rd year9History),,,3rd year9history),undergraduate
+26,27,Single,Grade_9,,,grade 9,high school
+27,28,Single,Grade_11,,,grade 11,high school
+28,29,Single,Grade_5,,,grade 5,primary
+29,30,Single,Grade_5,,,grade 5,primary
+30,31,Single,Grade_5,,,grade 5,primary
+31,32,Single,Grade_10,,,grade 10,high school
+32,33,Single,Passed from high school,,,high school graduate,high school
+33,34,Single,Grade_7,,,grade 7,middle school
+34,35,Single,Grade_9,,,grade 9,high school
+35,36,Single,Grade_12,,,grade 12,high school
+36,37,Single,Grade_10,,,grade 10,high school
+37,38,Married,Grade_11,,,grade 11,high school
+38,39,Single,Grade_11,,,grade 11,high school
+39,40,Single,2nd year (Geography),,,2nd year (geography),undergraduate
+40,41,Single,Grade-11,,,grade 11,high school
+41,42,Single,Grade_9,,,grade 9,high school
+42,43,Single,Graduate,,,graduate,graduate
+43,44,Married,Grade_10,,,grade 10,high school
+44,45,Single,Grade_10,,,grade 10,high school
+45,46,Single,BA(Geography),,,ba(geography),undergraduate
+46,47,Single,Grade _10,,Yes,grade 10,high school
+47,48,Divorce,BSc (Physics),,,bsc (physics),undergraduate
+48,49,Married,Grade_6 (passed),,,grade 6 (passed),middle school
+49,50,Single,3rd year (Geography),,Yes,3rd year (geography),undergraduate
+50,51,Single,Grade_10,,Yes,grade 10,high school
+51,52,Married,Grade_11,,,grade 11,high school
+52,53,Married,Grade_5,,,grade 5,primary
+53,54,Married,Grade_10,,,grade 10,high school
+54,55,Single,Grade_11,,,grade 11,high school
+55,56,Single,Grade_8,,,grade 8,middle school
+56,57,Single,Grade_7,,,grade 7,middle school
+57,58,Single,2nd year (Myan),,Yes,2nd year (myan),undergraduate
+58,59,Single,Grade_11,,Yes,grade 11,high school
+59,60,Single,Graduate,,,graduate,graduate
+60,61,Single,Grade_10,,,grade 10,high school
+61,62,Single,Grade_10,,,grade 10,high school
+62,63,Single,Law Degree,,,law degree,graduate
+63,64,Single,Grade_10,,,grade 10,high school
+64,65,Married,Grade_11,,,grade 11,high school
+65,66,Single,Grade_10,,Yes,grade 10,high school
+66,67,Single,Grade_11,,,grade 11,high school
+67,68,Single,Grade_11,,Yes,grade 11,high school
+68,69,Single,3rd year (myan),,,3rd year (myan),undergraduate
+69,70,Single,Grade _9,,No,grade 9,high school
+70,71,Single,Grade_11,,Yes,grade 11,high school
+71,72,Single,Grade_11,,,grade 11,high school
+72,73,Married,Graduate(Myan),,Yes,graduate,graduate
+73,74,Single,Grade_ 12,,,grade 12,high school
+74,75,Single,Grade_7,,,grade 7,middle school
+75,76,Married,Grade_9,,,grade 9,high school
+76,77,Married,Grade_8,,Yes,grade 8,middle school
+77,78,Single,Grade_11,,Yes,grade 11,high school
+78,79,Single,Grade_12,,No,grade 12,high school
+79,80,Married,Grade_10,,No,grade 10,high school
+80,81,Single,Grade_11,,No,grade 11,high school
+81,82,Single,Grade_5,,,grade 5,primary
+82,83,Single,Grade_11,,,grade 11,high school
+83,84,Single,State High School,,Yes,state high school,high school
+84,85,Single,Grade_11,,Yes,grade 11,high school
+85,86,Single,Graduate(Myan),,,graduate,graduate
+86,87,Single,5th year (civil),,,5th year (civil),undergraduate
+87,88,Single,5th year(EP),,,5th year(ep),undergraduate
+88,89,Single,5th year(EP),,,5th year(ep),undergraduate
+89,90,Single,5th year(EP),,,5th year(ep),undergraduate
+90,91,Single,5th year(Civil),,,5th year(civil),undergraduate
+91,92,Single,5th year (EP),,,5th year (ep),undergraduate
+92,93,Single,Grade_12(pass),,,grade 12(pass),high school
+93,94,Single,G_11,,,g 11,unknown
+94,95,Single,G_11,,,g 11,unknown
+95,96,Single,G_11,,Yes,g 11,unknown
+96,97,Single,G_11,,,g 11,unknown
+97,98,Single,G_11,,,g 11,unknown
+98,99,Single,G_11,,,g 11,unknown
+99,100,Single,G_10,,,g 10,unknown
+100,101,Single,G_10,,,g 10,unknown
+101,102,Single,G_11,,,g 11,unknown
+102,103,Single,G_11,,Yes,g 11,unknown
+103,104,Single,G_10,,Yes,g 10,unknown
+104,105,Single,BA ( English ),,Yes,ba ( english ),undergraduate
+105,106,Single,Grade_12(passed),,,grade 12(passed),high school
+106,107,Single,2nd year (Geography),,,2nd year (geography),undergraduate
+107,108,Single,BA ( Myanmar ),,,ba ( myanmar ),undergraduate
+108,109,Single,Grade_9(passed),,Yes,grade 9(passed),high school
+109,110,Single,Grade_9(passed),,Yes,grade 9(passed),high school
+110,111,Married,1st year,,,1st year,undergraduate
+111,112,Single,Grade-9 (passed ),,Yes,grade 9 (passed ),high school
+112,113,Single,Grade-9 (passed ),,,grade 9 (passed ),high school
+113,114,Single,Grade_11(passed),,Yes,grade 11(passed),high school
+114,115,Single,Grade_12(passed),,,grade 12(passed),high school
+115,116,Single,2nd year( History) ,,Yes,2nd year( history),undergraduate
+116,117,Single,Final year( zooiogy),,,final year( zooiogy),undergraduate
+117,118,Single,Grade_12(passed),,Yes,grade 12(passed),high school
+118,119,Single,Grade_10,,Yes,grade 10,high school
+119,120,Single,2nd year (Philo),,Yes,2nd year (philo),undergraduate
+120,121,Single,Grade_11,,,grade 11,high school
+121,122,Single,Grade_ 10,,,grade 10,high school
+122,123,Single,Grade_11,,,grade 11,high school
+123,124,Single,Grade_10,,,grade 10,high school
+124,125,Single,Grade_11(passed),,,grade 11(passed),high school
+125,126,Single,Grade_11(passed),,,grade 11(passed),high school
+126,127,Single,3rd year ( Geology),,,3rd year ( geology),undergraduate
+127,128,Single,Grade_11(passed),,,grade 11(passed),high school
+128,129,Single,Grade_10,,Yes,grade 10,high school
+129,130,Single,Grade_11(passed),,Yes,grade 11(passed),high school
+130,131,Single,Grade_6 (passed),,Yes,grade 6 (passed),middle school
+131,132,Single,Grade_10,,Yes,grade 10,high school
+132,133,Married,Grade_3,,,grade 3,primary
+133,134,Single,Grade_3,,,grade 3,primary
+134,135,Single,Grade_9(passed),,,grade 9(passed),high school
+135,136,Single,3rd year(Maths),,,3rd year(maths),undergraduate
+136,137,Single,BA(Psychology),,,ba(psychology),undergraduate
+137,138,Married,BA(History),,,ba(history),undergraduate
+138,139,Single,Passed  from high school,,Yes,high school graduate,high school
+139,140,Single,Passed  from high school,,Yes,high school graduate,high school
+140,141,Single,Passed  from high school,,Yes,high school graduate,high school
+141,142,Single,Grade_9,,,grade 9,high school
+142,143,Single,Grade_12,,,grade 12,high school
+143,144,Single,Grade_11,,,grade 11,high school
+144,145,Single,Grade_12,,,grade 12,high school
+145,146,Single,Grade_12,,,grade 12,high school
+146,147,Single,BA(Geography),,No,ba(geography),undergraduate
+147,148,Married,Grade_9,,,grade 9,high school
+148,149,Single,2nd year,,No,2nd year,undergraduate
+149,150,Single,3rd year ,,No,3rd year,undergraduate
+150,151,Single,Grade_11,,,grade 11,high school
+151,152,Single,Grade_11,,,grade 11,high school
+152,153,Single,4th year ( Chemistry),,,4th year ( chemistry),undergraduate
+153,154,Single,Grade_10,,,grade 10,high school
+154,155,Single,Grade_8,,,grade 8,middle school
+155,156,Single,Grade_12,,,grade 12,high school
+156,157,Single,Grade _11,,,grade 11,high school
+157,158,Single,Passed from high school,,,high school graduate,high school
+158,159,Single,4th year ( Law ),,,4th year ( law ),undergraduate
+159,160,Single,Grade_12 (AYAS),,Yes,grade 12 (ayas),high school
+160,161,Single,Grade_12 (AYAS),,No,grade 12 (ayas),high school
+161,162,Single,Grade_11 ( AYAS ),,No,grade 11 ( ayas ),high school
+162,163,Single,Grade_11 ( AYAS ),,Yes,grade 11 ( ayas ),high school
+163,164,Single,Grade_10( AYAS ),,Yes,grade 10( ayas ),high school
+164,165,Single,Grade_10( AYAS ),,Yes,grade 10( ayas ),high school
+165,166,Single,Grade_9 ( AYAS ),,Yes,grade 9 ( ayas ),high school
+166,167,Single,Grade_9 ( AYAS ),,,grade 9 ( ayas ),high school
+167,168,Single,Passed from high school,,,high school graduate,high school
+168,169,Single,Passed from high school,,,high school graduate,high school
+169,170,Single,Passed from high school,,,high school graduate,high school
+170,171,Single,Passed from high school,,,high school graduate,high school
+171,172,Single,Passed from high school,,,high school graduate,high school
+172,173,Single,Passed from high school,,,high school graduate,high school
+173,174,Single,Passed from high school,,,high school graduate,high school
+174,175,Single,Grade_12,,,grade 12,high school
+175,176,Single,Grade_10,,,grade 10,high school
+176,177,Single,Grade_12,,,grade 12,high school
+177,178,Single,Grade_11(AYAS),,,grade 11(ayas),high school
+178,179,Single,Grade_12(AYAS),,,grade 12(ayas),high school
+179,180,Single,Grade_12(AYAS),,,grade 12(ayas),high school
+180,181,Single,3rd year(Philosophy),,,3rd year(philosophy),undergraduate
+181,182,Married,Grade_11,,,grade 11,high school
+182,183,Single,Grade - 10,,No,grade 10,high school
+183,184,Single,Grade - 4,,No,grade 4,primary
+184,185,Single,Grade - 8,,No,grade 8,middle school
+185,186,Married,Grade - 9,,Yes,grade 9,high school
+186,187,Single,Grade - 5,,No,grade 5,primary
+187,188,Divorce,Grade - 6,,No,grade 6,middle school
+188,189,Single,Grade - 4,,No,grade 4,primary
+189,190,Single,Grade - 10,,No,grade 10,high school
+190,191,Married,Grade - 8,,No,grade 8,middle school
+191,192,Single,Grade - 5,,No,grade 5,primary
+192,193,Single,Grade - 8,,No,grade 8,middle school
+193,194,Single,Grade - 6,,No,grade 6,middle school
+194,195,Divorce,Grade - 4,,No,grade 4,primary
+195,196,Single,Grade - 11,,No,grade 11,high school
+196,197,Single,Grade - 8,,No,grade 8,middle school
+197,198,Single,Grade - 11,,No,grade 11,high school
+198,199,Single,Grade - 4,,No,grade 4,primary
+199,200,Married,Grade - 7,,No,grade 7,middle school
+200,201,Single,Grade - 9,,No,grade 9,high school
+201,202,Married,Grade - 12,,No,grade 12,high school
+202,203,Married,Unwish,,No,unknown,unknown
+203,204,Single,Grade -12,,No,grade 12,high school
+204,205,Married,Grade - 2,,No,grade 2,primary
+205,206,Single,Grade - 9,,No,grade 9,high school
+206,207,Single,Grade - 7,,No,grade 7,middle school
+207,208,Single,Grade - 8,,No,grade 8,middle school
+208,209,Single,Grade - 7,,No,grade 7,middle school
+209,210,Single,Grade - 7,,No,grade 7,middle school
+210,211,Single,Grade - 4,,No,grade 4,primary
+211,212,Single,Grade - 6,,No,grade 6,middle school
+212,213,Single,Grade - 5,,No,grade 5,primary
+213,214,Married,Grade - 7,,No,grade 7,middle school
+214,215,Single,Grade - 10,,No,grade 10,high school
+215,216,Single,Grade - 7,,No,grade 7,middle school
+216,217,Single,Grade - 8,,No,grade 8,middle school
+217,218,Single,Grade - 4,,No,grade 4,primary
+218,219,Single,Grade - 10,,No,grade 10,high school
+219,220,Single,Grade - 6,,No,grade 6,middle school
+220,221,Married,BA ( Geog ),,No,ba ( geog ),undergraduate
+221,222,Single,Grade - 9,,No,grade 9,high school
+222,223,Single,Grade -10,,No,grade 10,high school
+223,224,Single,Grade - 10,,No,grade 10,high school
+224,225,Married,First Year,,No,first year,undergraduate
+225,226,Married,Grade_10,,Yes,grade 10,high school
+226,227,Married,Grade_9,,Yes,grade 9,high school
+227,228,Married,Grade_7,,Yes,grade 7,middle school
+228,229,Single,,,,,unknown
+229,230,Single,,,,,unknown
+230,231,Single,Grade_9,,Yes,grade 9,high school
+231,232,Married,B.Sc (Physics),,Yes,b.sc (physics),unknown
+232,233,Single,Second Year (Kachin State Comprehensive University),,No,second year (kachin state comprehensive university),undergraduate
+233,234,Single,Pre-TCL (Chinese Language Mai Ja Yang Institude of Education),,No,pre tcl (chinese language mai ja yang institude of education),unknown
+234,235,Married,Grade_10,,Yes,grade 10,high school
+235,236,Single,Grade_9,,Yes,grade 9,high school
+236,237,Single,Grade_10,,Yes,grade 10,high school
+237,238,Married,Grade_9,,Yes,grade 9,high school
+238,239,Married,Grade_8,,Yes,grade 8,middle school
+239,240,Single,Grade_10,,Yes,grade 10,high school
+240,241,Married,Graduate,,,graduate,graduate
+241,242,Single,B.A (Development Studies ,,No,b.a (development studies,undergraduate
+242,243,Single,Grade_8,,Yes,grade 8,middle school
+243,244,Single,Grade_10,,Yes,grade 10,high school
+244,245,Single,First Year (Institude of Libral Arts and Sciences),,,first year (institude of libral arts and sciences),undergraduate
+245,246,Single,Grade_10,,Yes,grade 10,high school
+246,247,Single,Grade_10,,Yes,grade 10,high school
+247,248,Married,Grade_10,,,grade 10,high school
+248,249,Married,Grade_10,,Yes,grade 10,high school
+249,250,Single,Business Diploma,,Yes,business diploma,diploma
+250,251,Married,Grade_9,,Yes,grade 9,high school
+251,252,Married,Grade_8,,No,grade 8,middle school
+252,253,Married,Grade_7,,Yes,grade 7,middle school
+253,254,Single,Grade_10,,Yes,grade 10,high school
+254,255,Single,Grade_10,,Yes,grade 10,high school
+255,256,Married,Grade_10,,Yes,grade 10,high school
+256,257,Single,Grade_6,,Yes,grade 6,middle school
+257,258,Single,Grade_7,,Yes,grade 7,middle school
+258,259,Single,"OTHM (Level 3) 
+Dip.FBD",,No,othm (level 3) dip.fbd,unknown
+259,260,Single,"ILO.SIYB
+(ToT)",,No,ilo.siyb (tot),unknown
+260,261,Single,B.A (Myanmar),,No,b.a (myanmar),undergraduate
+261,262,Single,Matriculated,,No,high school graduate,high school
+262,263,Single,High school,,No,high school,high school
+263,264,Married,B.Sc(Maths),,No,b.sc(maths),unknown
+264,265,Married,B.Sc(Chem),,No,b.sc(chem),unknown
+265,266,Single,High school,,No,high school,high school
+266,267,Single,Middle school,,No,middle school,middle school
+267,268,Single,High school,,No,high school,high school
+268,269,Single,High school,,No,high school,high school
+269,270,Married,High school,,No,high school,high school
+270,271,Married,High school,,No,high school,high school
+271,272,Married,Middle school,,No,middle school,middle school
+272,273,Single,Middle school,,No,middle school,middle school
+273,274,Single,High school,,No,high school,high school
+274,275,Single,High school,,No,high school,high school
+275,276,Single,High school,,No,high school,high school
+276,277,Single,High school,,No,high school,high school
